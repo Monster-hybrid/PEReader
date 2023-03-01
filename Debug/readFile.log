@@ -1,0 +1,59 @@
+﻿生成启动时间为 2023/3/1 19:58:00。
+     1>项目“C:\Users\86130\Documents\Visual Studio 2010\Projects\readFile\readFile\readFile.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\readFile.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\readFile.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt readFile.cpp
+         readFile.cpp
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(125): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\time.inl(112) : 参见“localtime”的声明
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(135): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(136): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(137): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(146): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(149): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(165): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(279): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(475): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(512): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(519): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(531): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(536): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(588): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(618): warning C4018: “>=”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(945): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(984): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(1014): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(312): warning C4101: “file_name”: 未引用的局部变量
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(1161): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(64): warning C4715: “FOAToRVA”: 不是所有的控件路径都返回值
+     1>c:\users\86130\documents\visual studio 2010\projects\readfile\readfile\readfile.cpp(117): warning C4715: “RVAToFOA”: 不是所有的控件路径都返回值
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\86130\Documents\Visual Studio 2010\Projects\readFile\Debug\readFile.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\readFile.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\86130\Documents\Visual Studio 2010\Projects\readFile\Debug\readFile.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\86130\Documents\Visual Studio 2010\Projects\readFile\Debug\readFile.lib" /MACHINE:X86 Debug\readFile.exe.embed.manifest.res
+         Debug\readFile.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\readFile.exe.embed.manifest" /manifest Debug\readFile.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         readFile.vcxproj -> C:\Users\86130\Documents\Visual Studio 2010\Projects\readFile\Debug\readFile.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\readFile.unsuccessfulbuild”。
+         正在对“Debug\readFile.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\86130\Documents\Visual Studio 2010\Projects\readFile\readFile\readFile.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.77
